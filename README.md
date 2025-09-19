@@ -1,6 +1,8 @@
 # Black-Scholes Implied Volatility Surface
 
-This repository contains a Python implementation for generating and interpolating an implied volatility (IV) surface using the Black-Scholes model.
+![Image](https://github.com/user-attachments/assets/c9b7b912-346d-463a-aa76-d7d09bb38c23)
+
+*This repository contains a Python implementation for generating and interpolating an implied volatility (IV) surface using the Black-Scholes model.*
 ---
 
 ## Overview
