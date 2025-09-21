@@ -5,7 +5,7 @@
 *This repository contains a Python implementation for generating and interpolating an implied volatility (IV) surface using the Black-Scholes model.*
 ---
 
-## Overview
+## ✈️Overview
 
 - Computes European call option prices using the Black-Scholes formula.
 - Calculates implied volatility from option prices.
@@ -14,12 +14,27 @@
 
 ---
 
-## Features
+## ⛏️Features
 
 - BlackScholes pricing: `bs_call_price(S, K, T, r, sigma)`
 - Implied volatility calculation `implied_vol(price, S, K, T, r)`
 - Synthetic vol surface generation using a sine + exponential model.
 - 3D visualization of strikes, maturities, and interpolated IV.
+
+---
+
+## 🛣️Roadmap
+
+1) American Options Support
+2) Exotic options (Asian/Barrier etc)
+3) Better UI
+4) Live market feed
+5) Crypto support
+
+---
+
+## ❤️Contribution
+- Please feel free to contribute and add new features or fix bugs! Just fork + a new branch and you are good to go!
 
 ---
 
