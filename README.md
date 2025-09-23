@@ -25,7 +25,7 @@
 
 ## 🛣️Roadmap
 
-1) American Options Support
+1) American Options Support (IN PROGRESS)
 2) Exotic options (Asian/Barrier etc)
 3) Better UI
 4) Live market feed
