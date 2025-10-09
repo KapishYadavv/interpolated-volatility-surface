@@ -1,4 +1,4 @@
-# Black-Scholes Implied Volatility Surface
+# Volatility Surface (European Options) 
 
 ![Image](https://github.com/user-attachments/assets/c9b7b912-346d-463a-aa76-d7d09bb38c23)
 
